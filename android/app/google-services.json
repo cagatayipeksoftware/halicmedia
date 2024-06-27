@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715895665119",
+    "project_id": "halicmedia",
+    "storage_bucket": "halicmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715895665119:android:d25eaa425404275b25546a",
+        "android_client_info": {
+          "package_name": "com.example.halicmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LwBmV3ANDckSQzgCTiQx135JtPCDFHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
