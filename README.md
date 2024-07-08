@@ -1,7 +1,7 @@
 
-# Üniversite Bitirme Projesi / University Ending Project
+# Üniversite Bitirme Projesi / University Graduation Project
 
-I made this social media app for university ending project.
+I made this social media app for university graduation project.
 
 /
 
